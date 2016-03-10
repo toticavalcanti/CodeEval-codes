@@ -1,0 +1,5 @@
+1 2 f 4 b f 7 8 f b
+1 f 3 f 5 f b f 9 f 11 f 13 fb 15
+1 2 f 4 b f 7 8 f b 11 f 13 14 fb 16 17 f 19 b f 22 23 f b 26 f 28 29 fb 31 32 f 34 b f
+1 f 3 f 5 f b f 9 f 11 f 13 fb 15 f 17 f 19 f b
+1 2 3 f b 6 7 f 9 b 11 f 13 14 b f 17 18 19 fb 21 22
